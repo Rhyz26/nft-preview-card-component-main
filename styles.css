@@ -1,0 +1,26 @@
+*, *::before,*::after{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* background-color: hsl(217, 54%, 11%) */
+  
+        
+}
+body{
+font-family: "Outfit";
+margin: 0;
+padding: 0;
+}
+
+.main{
+    background-color: hsl(216, 50%, 16%);
+}
+.name{
+    color:hsl(0, 0%, 100%);
+}
+.create{
+    color:hsl(215, 51%, 70%)
+}
+.img-1{
+    width:300px;
+}
